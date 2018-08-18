@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VirtualOut Title="ETH008" Comment="" Address="http://192.168.180.192" CmdInit="" CloseAfterSend="true" CmdSep=";">
+	<VirtualOutCmd Title="VQ1 output" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="/io.cgi?DOA1" CmdOnHTTP="" CmdOnPost="" CmdOff="/io.cgi?DOI1" CmdOffHTTP="" CmdOffPost="" Analog="false" Repeat="0" RepeatRate="0"/>
+	<VirtualOutCmd Title="VQ2 output" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="/io.cgi?DOA2" CmdOnHTTP="" CmdOnPost="" CmdOff="/io.cgi?DOI2" CmdOffHTTP="" CmdOffPost="" Analog="false" Repeat="0" RepeatRate="0"/>
+	<VirtualOutCmd Title="VQ3 output" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="/io.cgi?DOA3" CmdOnHTTP="" CmdOnPost="" CmdOff="/io.cgi?DOI3" CmdOffHTTP="" CmdOffPost="" Analog="false" Repeat="0" RepeatRate="0"/>
+	<VirtualOutCmd Title="VQ4 output" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="/io.cgi?DOA4" CmdOnHTTP="" CmdOnPost="" CmdOff="/io.cgi?DOI4" CmdOffHTTP="" CmdOffPost="" Analog="false" Repeat="0" RepeatRate="0"/>
+	<VirtualOutCmd Title="VQ5 output" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="/io.cgi?DOA5" CmdOnHTTP="" CmdOnPost="" CmdOff="/io.cgi?DOI5" CmdOffHTTP="" CmdOffPost="" Analog="false" Repeat="0" RepeatRate="0"/>
+	<VirtualOutCmd Title="VQ6 output" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="/io.cgi?DOA6" CmdOnHTTP="" CmdOnPost="" CmdOff="/io.cgi?DOI6" CmdOffHTTP="" CmdOffPost="" Analog="false" Repeat="0" RepeatRate="0"/>
+	<VirtualOutCmd Title="VQ7 output" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="/io.cgi?DOA7" CmdOnHTTP="" CmdOnPost="" CmdOff="/io.cgi?DOI7" CmdOffHTTP="" CmdOffPost="" Analog="false" Repeat="0" RepeatRate="0"/>
+	<VirtualOutCmd Title="VQ8 output" Comment="" CmdOnMethod="GET" CmdOffMethod="GET" CmdOn="/io.cgi?DOA8" CmdOnHTTP="" CmdOnPost="" CmdOff="/io.cgi?DOI8" CmdOffHTTP="" CmdOffPost="" Analog="false" Repeat="0" RepeatRate="0"/>
+</VirtualOut>
